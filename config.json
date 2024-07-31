@@ -12,39 +12,29 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "ARMAN BABU",
+    "BOTNAME": "ARIF BABU",
     "PREFIX": "#",
     "OTHERBOT": [
-        ""
+        "61559402804237"
     ],
     "UNSENTVIP": [
-        "100082052205053",
-        "61552520997731",
-        "100085324852432",
+        "61559402804237",
+        "",
+        "",
         ""
     ],
     "GOD": [
-        ""
+        "61559402804237"
     ],
     "ADMINBOT": [
-        "100085324852432",
-        "100091268256909",
-        "100082052205053",
-        "61552520997731",
-        "61552656562989",
-        "61551589643186",
-        "61558777394570",
-        "100069135162677",
-        "100081089402257",
-        "100079626829456",
-        "100080899898916",
-        "100069584601848",
-        "61555224008836"
+        "61559402804237",
+        "",
+        ""
     ],
-    "OWNER": "FAIZ ANSARI",
+    "OWNER": "ARIF BABU",
     "AGE": "20",
     "GENDER": "MALE",
-    "FACEBOOK": "https://www.facebook.com/profile.php?id=100082052205053&mibextid=ZbWKwL",
+    "FACEBOOK": "https://www.facebook.com/profile.php?id=61559402804237&mibextid=ZbWKwL",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
@@ -53,7 +43,7 @@
     "AutoGreetWithSticker": "enable",
     "AutoGreetSendPerHour": "1",
     "AutoPost": "disable",
-    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- FAIZ ANSARI☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠FAIZ ANSARI〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞https://www.facebook.com/profile.php?id=100082052205053&mibextid=ZbWKwL= ☜",
+    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ARIF_BABU☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ARIF_BABU〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞https://www.facebook.com/profile.php?id=61559402804237&mibextid=ZbWKwL= ☜",
     "AutoPostPerHour": "1",
     "AutoPostGreet": "disable",
     "AutoPostGreetPostPerHour": "6",
@@ -64,7 +54,7 @@
     "AutoPendingGroupChat": "accept",
     "AutoBioStatus": "enable",
     "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞FAIZ ANSARI☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠FAIZ ANSARI〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/profile.php?id=100082052205053&mibextid=ZbWKwL☜",
+    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞FAIZ ANSARI☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ARIF_BABU〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/profile.php?id=61559402804237&mibextid=ZbWKwL☜",
     "AutoLeave": "enable",
     "RandomRedditMemes": "enable",
     "RandomRedditMemesSendPerHour": "1",
